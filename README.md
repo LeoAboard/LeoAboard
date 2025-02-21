@@ -4,7 +4,8 @@
 - PSQL ⚙️
 - C/C++ ⚙️
 - Python ⚙️
-- Programação Web ⚙️ 
+- HTML / CSS ⚙️
+- pt-br / en-us 🌎 
 <!--
 **LeoAboard/LeoAboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
