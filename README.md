@@ -5,7 +5,7 @@
 - C/C++ ⚙️
 - Python ⚙️
 - HTML / CSS ⚙️
-- pt-br / en-us 🌎 
+- Pt-BR / En-US 🌎 
 <!--
 **LeoAboard/LeoAboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
