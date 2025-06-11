@@ -1,9 +1,10 @@
 ## Leonardo Araujo Armelin 👋👨‍💻⚙️
 
 - Sou estudante de Engenharia de Computação - IFMS ⚙️
-- PSQL ⚙️
+- SQL ⚙️
 - C/C++ ⚙️
 - Python ⚙️
+- JavaScript ⚙️
 - HTML / CSS ⚙️
 - Pt-BR / En-US 🌎 
 <!--
